@@ -5,7 +5,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Project Screenshot
 
 ![React URL Shortener Screenshot](https://github.com/user-attachments/assets/0f17f1a4-e501-44aa-a6ce-a38ae5ea58ea)  
-*Replace the URL above with your screenshot stored in your repo or a relative path like `./screenshot.png`*
 
 ---
 
